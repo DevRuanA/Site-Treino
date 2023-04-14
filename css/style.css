@@ -58,7 +58,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: #000000;
     margin: 0
 }
 
@@ -192,7 +192,7 @@ button {
     border: 0;
     margin: 0;
     padding: 0;
-    cursor: pointer;
+    cursor: pointer;        
 }
 
 .full {
@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background: linear-gradient(90deg, #000000 61%, #000000 61%);
+    background: linear-gradient(90deg, #6600ff 61%, #000000 61%);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -538,7 +538,7 @@ a.navbar-brand {
 .services_section_2 {
     width: 100%;
     float: left;
-    background-color: #0000004c;
+    background-color: #6600ff;
     padding: 90px 0px;
     margin-top: 60px;
 }
@@ -669,7 +669,7 @@ p.chunks_text {
 .studies_box {
     width: 100%;
     float: left;
-    background-color: #ffffff;
+    background-color: #6600ff;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     height: auto;
@@ -714,7 +714,7 @@ figure {
     height: 100%;
     margin: 0;
     padding: 0;
-    background: #fff;
+    background: #000000;
     overflow: hidden;
 }
 
@@ -727,7 +727,7 @@ figure:hover+span {
     width: 100%;
     float: left;
     text-align: center;
-    color: #001431;
+    color: #ffffff;
     font-size: 20px;
     padding: 0px;
     text-transform: uppercase;
@@ -744,10 +744,10 @@ figure:hover+span {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #fefdff;
     padding: 10px;
     text-align: center;
-    background-color: #001431;
+    background-color: #6600ff;
     margin-top: 30px;
     border-radius: 5px;
     text-transform: uppercase;
@@ -755,12 +755,12 @@ figure:hover+span {
 
 .read_bt a:hover {
     color: #ffffff;
-    background-color: #e53232;
+    background-color: #000000;
 }
 
 .read_bt.active a {
     color: #ffffff;
-    background-color: #e53232;
+    background-color: #6600ff;
 }
 
 
@@ -772,7 +772,7 @@ figure:hover+span {
 .about_section {
     width: 100%;
     float: left;
-    background-color: #001431;
+    background-color: #000000;
     height: auto;
     padding: 90px 0px 40px 0px;
 }
@@ -814,8 +814,8 @@ figure:hover+span {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
-    background-color: #e73232;
+    color: #000000;
+    background-color: #ffffff;
     text-align: center;
     padding: 10px;
     border-radius: 5px;
@@ -824,7 +824,7 @@ figure:hover+span {
 
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #001431;
+    background-color: #6600ff;
 }
 
 
@@ -886,7 +886,7 @@ textarea#comment::placeholder {
     float: left;
     font-size: 18px;
     color: #fefefd;
-    background-color: #f9bc19;
+    background-color: #000000;
     padding: 10px;
     text-align: center;
     border-radius: 5px;
@@ -959,7 +959,7 @@ textarea#comment::placeholder {
     float: left;
     font-size: 26px;
     font-weight: bold;
-    color: #e73232;
+    color: #000000;
 }
 
 .enim_text {
@@ -984,7 +984,7 @@ textarea#comment::placeholder {
 #my_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background: #001431;
+    background: #6600ff;
     opacity: 1;
     font-size: 18px;
     color: #ffffff;
@@ -996,7 +996,7 @@ textarea#comment::placeholder {
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-prev:hover {
     color: #ffffff;
-    background-color: #e73232
+    background-color: #6600ff
 }
 
 
@@ -1068,7 +1068,7 @@ textarea#comment::placeholder {
 #custom_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background: #e73232;
+    background: #000000;
     opacity: 1;
     font-size: 18px;
     color: #ffffff;
@@ -1082,7 +1082,7 @@ textarea#comment::placeholder {
 #custom_slider .carousel-control-prev:focus,
 #custom_slider .carousel-control-prev:hover {
     color: #ffffff;
-    background-color: #e73232
+    background-color: #000000
 }
 
 
@@ -1164,7 +1164,7 @@ textarea#comment::placeholder {
     text-align: center;
     font-size: 18px;
     color: #ffffff;
-    background-color: #e73232;
+    background-color:#000000;
     padding: 10px;
     text-transform: uppercase;
     margin-top: 30px;
@@ -1175,7 +1175,7 @@ textarea#comment::placeholder {
 
 .send_bt a:hover {
     color: #fff;
-    background-color: #001431;
+    background-color: #000000;
 }
 
 
@@ -1187,7 +1187,7 @@ textarea#comment::placeholder {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #001431;
+    background-color: #000000;
     height: auto;
     padding: 80px 0px 30px 0px;
 }
@@ -1223,7 +1223,7 @@ textarea#comment::placeholder {
 }
 
 .social_icon li a:hover {
-    color: #51a9e8;
+    color: #6600ff;
 }
 
 .location_text {
@@ -1248,7 +1248,7 @@ textarea#comment::placeholder {
     font-size: 20px;
     color: #ffffff;
     margin: 0px 30px;
-    background-color: #e73232;
+    background-color: #6600ff;
     padding: 12px 0px;
     border-radius: 100%;
     width: 60px;
@@ -1269,7 +1269,7 @@ textarea#comment::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #001431;
+    background-color: #6600ff;
     height: auto;
 }
 
